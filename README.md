@@ -6,7 +6,7 @@ A sandbox repo for practicing the basic git workflow: clone, change, commit, pus
 
 1. **Clone** the repo (once):
    ```bash
-   git clone git@github.com:OWNER/git-practice.git
+   git clone git@github.com:davidgresham/git-practice.git
    cd git-practice
    ```
 2. **Set your identity** (once per machine, if you haven't already):
